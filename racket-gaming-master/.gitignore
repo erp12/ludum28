@@ -1,0 +1,5 @@
+tags
+*.bak
+*~
+compiled
+.DS_Store
