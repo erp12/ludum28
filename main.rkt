@@ -4,5 +4,5 @@
 
 (define bar "another var!!")
 
-(define foo "what is this i dont even what even was this")
+(define foo "can other people see this?")
 
